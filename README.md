@@ -1,21 +1,52 @@
 # Python Practice Repository
 
-Welcome to my Python Practice Repository. This repository contains Python programs, coding exercises, and problem-solving solutions that I have practiced to improve my programming skills.
+## Overview
 
-## 🚀 Skills Practiced
-- Python Fundamentals
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- File Handling
+This repository contains Python practice programs, coding exercises, and problem-solving solutions. It is designed to improve programming skills, logical thinking, and coding proficiency.
+
+## Skills Practiced
+
+### Python Fundamentals
+- Variables and Data Types
+- Operators
+- Input and Output
+- Type Casting
+
+### Control Flow
+- Conditional Statements
+- Loops
+- Nested Loops
+
+### Functions
+- Function Definition
+- Arguments and Parameters
+- Return Statements
+- Lambda Functions
+
+### Data Structures
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+
+### Object-Oriented Programming
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+
+### File Handling
+- Reading Files
+- Writing Files
 - Exception Handling
-- Functions and Modules
-- SQL Basics
-- Shell Scripting
-- AWS Cloud Fundamentals
-- Docker Basics
-- Git and GitHub
 
-## 📂 Repository Structure
+### Advanced Topics
+- Modules and Packages
+- Data Structures and Algorithms
+- Problem Solving
+- Coding Challenges
+
+## Repository Structure
 
 ```text
 Python-Practice/
@@ -31,38 +62,40 @@ Python-Practice/
 └── CodingChallenges/
 ```
 
-## ▶️ Running Python Programs
+## How to Run
 
 ```bash
 python filename.py
 ```
 
-## 🎯 Purpose
-
-This repository is created to:
-- Strengthen Python programming skills
-- Practice coding interview questions
-- Improve problem-solving abilities
-- Learn software development best practices
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Git
 - GitHub
 - SQL
+- Shell Scripting
 - AWS Cloud
 - Docker
 - Linux
 
-## 👨‍💻 Author
+## Purpose
+
+- Improve Python programming skills
+- Practice coding interview questions
+- Enhance problem-solving abilities
+- Build a strong technical foundation
+
+## Author
 
 **Chintalakonda Lakshmanna**
 
-B.Tech (Computer Science and Engineering)
+B.Tech - Computer Science and Engineering
 
 Aspiring Software Developer
 
 ---
 
-Feel free to explore the repository and check out my coding practice journey.
+### Connect with Me
+
+GitHub: https://github.com/YOUR_USERNAME
